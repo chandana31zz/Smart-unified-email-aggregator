@@ -1,0 +1,13 @@
+streamlit
+collections
+pandas
+numpy
+mathplotlib
+transformers
+pipeline
+threading
+re
+time
+math
+imaplib
+email
