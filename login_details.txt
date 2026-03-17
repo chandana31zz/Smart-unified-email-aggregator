@@ -1,5 +1,0 @@
-Username: admin
-Password: admin123
-
-Username: NIE
-Password: NIE123
